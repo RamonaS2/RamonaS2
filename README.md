@@ -1,5 +1,5 @@
 # 💫 About Me:
-👩‍Olá, sou a Ramona,<br>⏳tenho 20 anos,<br>👩‍🎓sou estudante de Física bacharel com foco em física computacional na Universidade Federal do Piauí<br>🚀sou desenvolvedora Full Stack,<br>💚atualmente faço desenvolvimento de software na @beTrybe,<br>📖e um detalhe aleatório sobre mim é que amo ler e meu humor varia de acordo com o livro que to lendo.
+👩‍Olá, sou a Ramona<br>⏳ Tenho 20 anos<br>👩‍🎓Sou estudante de Física bacharelado com foco em física computacional na Universidade Federal do Piauí<br>🚀Sou desenvolvedora Full Stack<br>💚Atualmente estudo desenvolvimento de software na @beTrybe<br>📖Um detalhe aleatório sobre mim é que amo ler e meu humor varia de acordo com o livro que estou lendo.
 
 
 ## 🌐 Socials:
@@ -17,9 +17,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=RamonaS2&icon=2&color=0)](https://visitcount.itsvg.in)
