@@ -1,5 +1,5 @@
 # 💫 About Me:
-👩‍Olá, sou a Ramona<br>⏳ Tenho 21 anos<br>👩‍🎓Sou estudante de Física bacharelado com foco em física computacional na Universidade Federal do Piauí<br>🚀Sou desenvolvedora Full Stack<br>💚Atualmente estudo desenvolvimento de software na @beTrybe<br>📖Um detalhe aleatório sobre mim é que amo ler e meu humor varia de acordo com o livro que estou lendo.
+👩‍Olá, sou a Ramona<br>⏳ Tenho 22 anos<br>👩‍🎓Sou estudante de Física bacharelado com foco em física computacional na Universidade Federal do Piauí<br>🚀Sou desenvolvedora Full Stack<br>💚Atualmente estudo desenvolvimento de software na @beTrybe<br>📖Um detalhe aleatório sobre mim é que amo ler e meu humor varia de acordo com o livro que estou lendo.
 
 
 ## 🌐 Socials:
